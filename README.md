@@ -1,1 +1,1 @@
-Get Cherry Pick Practice
+Git Cherry Pick Practice
